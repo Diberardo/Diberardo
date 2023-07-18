@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Giulio;I'm+18+years+old;I'm+from+Brazil;I+Student+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Giulio;I'm+19+years+old;I'm+from+Brazil;I+Student+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Diberardo&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF4&text_color=c9d1d9&bg_color=0d1117" alt="Giulio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diberardo&layout=compact&hide_border=true&title_color=8B0000&text_color=8B0000&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diberardo&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
@@ -18,10 +18,11 @@
 </div>
 
 ##
+
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://instagram.com/techverce_spacing" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/giu_berardo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/giulio-vincenzo-di-berardo-a141b5281" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
