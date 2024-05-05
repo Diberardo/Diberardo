@@ -18,6 +18,14 @@
   <img align="center" alt="Giu-PHP" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Giu-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Giu-Arduino" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Giu-Arduino" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"/>
+  <img align="center" alt="Giu-Arduino" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Giu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Giu-C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Giu-C" height="35" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHSX6WVnCWdbBpWsfy2YkvLcPrijW8J65WA&s">
 </div>
 
 ##
