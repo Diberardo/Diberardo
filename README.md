@@ -23,9 +23,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Giu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Giu-C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Giu-C" height="35" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHSX6WVnCWdbBpWsfy2YkvLcPrijW8J65WA&s">
+  <img align="center" alt="Giu-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Giu-PyCharm" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Giu-Devc" height="35" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHSX6WVnCWdbBpWsfy2YkvLcPrijW8J65WA&s">
+  <img align="center" alt="Giu-Xamp" height="37" width="37" src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png">
 </div>
 
 ##
